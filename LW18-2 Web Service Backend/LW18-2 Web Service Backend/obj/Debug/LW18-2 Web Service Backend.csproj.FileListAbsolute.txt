@@ -1,0 +1,360 @@
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+E:\Visual Studio C Sharp\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+F:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+D:\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+F:\Updated Qualification Kelwin\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+D:\LW\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\ApplicationInsights.config
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\csc.exe
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Collections.Immutable.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\System.Reflection.Metadata.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\vbc.exe
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\roslyn\VBCSCompiler.exe.config
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll.config
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\LW18-2 Web Service Backend.pdb
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\EntityFramework.SqlServer.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.DependencyCollector.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.Web.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.AI.WindowsServer.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.ApplicationInsights.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\Newtonsoft.Json.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Net.Http.Formatting.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\bin\System.Web.Http.WebHost.xml
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.csprojResolveAssemblyReference.cache
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.dll
+D:\LW Updated 2121\Pattern Software Design\LW18-2 Web Service Backend\LW18-2 Web Service Backend\obj\Debug\LW18-2 Web Service Backend.pdb

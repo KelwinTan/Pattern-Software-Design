@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cart">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="ShoeID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Shoes" Relationship="Self.FK_Cart_ToTable" FromRole="Cart" ToRole="Shoes" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Table_ToTable" FromRole="Cart" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Detail_Transaction">
+    <Key>
+      <PropertyRef Name="HeaderTransactionID" />
+    </Key>
+    <Property Name="HeaderTransactionID" Type="Int32" Nullable="false" />
+    <Property Name="ShoeID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Header_Transaction" Relationship="Self.FK_Detail_Transaction_ToTable" FromRole="Detail_Transaction" ToRole="Header_Transaction" />
+    <NavigationProperty Name="Shoes" Relationship="Self.FK_Detail_Transaction_ToTable_1" FromRole="Detail_Transaction" ToRole="Shoes" />
+  </EntityType>
+  <EntityType Name="Header_Transaction">
+    <Key>
+      <PropertyRef Name="HeaderTransactionID" />
+    </Key>
+    <Property Name="HeaderTransactionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Detail_Transaction" Relationship="Self.FK_Detail_Transaction_ToTable" FromRole="Header_Transaction" ToRole="Detail_Transaction" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Header_Transaction_ToTable" FromRole="Header_Transaction" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Shoes">
+    <Key>
+      <PropertyRef Name="ShoeID" />
+    </Key>
+    <Property Name="ShoeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ShoeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Carts" Relationship="Self.FK_Cart_ToTable" FromRole="Shoes" ToRole="Cart" />
+    <NavigationProperty Name="Detail_Transaction" Relationship="Self.FK_Detail_Transaction_ToTable_1" FromRole="Shoes" ToRole="Detail_Transaction" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cart" Relationship="Self.FK_Table_ToTable" FromRole="User" ToRole="Cart" />
+    <NavigationProperty Name="Header_Transaction" Relationship="Self.FK_Header_Transaction_ToTable" FromRole="User" ToRole="Header_Transaction" />
+  </EntityType>
+  <Association Name="FK_Cart_ToTable">
+    <End Role="Shoes" Type="Database1Model.Shoes" Multiplicity="1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shoes">
+        <PropertyRef Name="ShoeID" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="ShoeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Table_ToTable">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Detail_Transaction_ToTable">
+    <End Role="Header_Transaction" Type="Self.Header_Transaction" Multiplicity="1" />
+    <End Role="Detail_Transaction" Type="Self.Detail_Transaction" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Header_Transaction">
+        <PropertyRef Name="HeaderTransactionID" />
+      </Principal>
+      <Dependent Role="Detail_Transaction">
+        <PropertyRef Name="HeaderTransactionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Detail_Transaction_ToTable_1">
+    <End Role="Shoes" Type="Database1Model.Shoes" Multiplicity="1" />
+    <End Role="Detail_Transaction" Type="Self.Detail_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shoes">
+        <PropertyRef Name="ShoeID" />
+      </Principal>
+      <Dependent Role="Detail_Transaction">
+        <PropertyRef Name="ShoeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Header_Transaction_ToTable">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Header_Transaction" Type="Self.Header_Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Header_Transaction">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Carts" EntityType="Self.Cart" />
+    <EntitySet Name="Detail_Transactions" EntityType="Self.Detail_Transaction" />
+    <EntitySet Name="Header_Transactions" EntityType="Self.Header_Transaction" />
+    <EntitySet Name="Shoes1" EntityType="Database1Model.Shoes" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Cart_ToTable" Association="Self.FK_Cart_ToTable">
+      <End Role="Shoes" EntitySet="Shoes1" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Detail_Transaction_ToTable" Association="Self.FK_Detail_Transaction_ToTable">
+      <End Role="Header_Transaction" EntitySet="Header_Transactions" />
+      <End Role="Detail_Transaction" EntitySet="Detail_Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Detail_Transaction_ToTable_1" Association="Self.FK_Detail_Transaction_ToTable_1">
+      <End Role="Shoes" EntitySet="Shoes1" />
+      <End Role="Detail_Transaction" EntitySet="Detail_Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Header_Transaction_ToTable" Association="Self.FK_Header_Transaction_ToTable">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Header_Transaction" EntitySet="Header_Transactions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

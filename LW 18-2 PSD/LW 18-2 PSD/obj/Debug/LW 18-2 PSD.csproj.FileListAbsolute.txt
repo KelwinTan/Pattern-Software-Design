@@ -1,0 +1,229 @@
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+E:\Visual Studio C Sharp\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+F:\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+F:\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+F:\Assistant\Post Training Qualification\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\AYO QUALIFIED\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.SqlServer.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.dll
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.SqlServer.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LW\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\ApplicationInsights.config
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\csc.exe
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Collections.Immutable.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\vbc.exe
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\roslyn\VBCSCompiler.exe.config
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll.config
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\LW 18-2 PSD.pdb
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.SqlServer.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\EntityFramework.SqlServer.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.DependencyCollector.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.Web.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.AI.WindowsServer.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.ApplicationInsights.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\Newtonsoft.Json.xml
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.csprojResolveAssemblyReference.cache
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\obj\Debug\LW 18-2 PSD.pdb
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportSource.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.Shared.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.Web.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LW Updated 2121\Pattern Software Design\LW 18-2 PSD\LW 18-2 PSD\bin\stdole.dll

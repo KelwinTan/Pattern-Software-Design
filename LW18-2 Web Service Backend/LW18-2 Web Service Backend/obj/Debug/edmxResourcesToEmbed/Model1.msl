@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="Carts">
+      <EntityTypeMapping TypeName="Database1Model.Cart">
+        <MappingFragment StoreEntitySet="Cart">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="ShoeID" ColumnName="ShoeID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Detail_Transactions">
+      <EntityTypeMapping TypeName="Database1Model.Detail_Transaction">
+        <MappingFragment StoreEntitySet="Detail Transaction">
+          <ScalarProperty Name="HeaderTransactionID" ColumnName="HeaderTransactionID" />
+          <ScalarProperty Name="ShoeID" ColumnName="ShoeID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Header_Transactions">
+      <EntityTypeMapping TypeName="Database1Model.Header_Transaction">
+        <MappingFragment StoreEntitySet="Header Transaction">
+          <ScalarProperty Name="HeaderTransactionID" ColumnName="HeaderTransactionID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shoes1">
+      <EntityTypeMapping TypeName="Database1Model.Shoes">
+        <MappingFragment StoreEntitySet="Shoes">
+          <ScalarProperty Name="ShoeID" ColumnName="ShoeID" />
+          <ScalarProperty Name="ShoeName" ColumnName="ShoeName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Database1Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

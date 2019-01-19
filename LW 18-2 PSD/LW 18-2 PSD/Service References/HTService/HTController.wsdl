@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getAllHT">
+        <s:complexType />
+      </s:element>
+      <s:element name="getAllHTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getAllHTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getHTByID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="userID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getHTByIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getHTByIDResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertHT">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="headerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="userID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertHTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertHTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getLastHT">
+        <s:complexType />
+      </s:element>
+      <s:element name="getLastHTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getLastHTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getALLHTLIST">
+        <s:complexType />
+      </s:element>
+      <s:element name="getALLHTLISTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getALLHTLISTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getAllHTSoapIn">
+    <wsdl:part name="parameters" element="tns:getAllHT" />
+  </wsdl:message>
+  <wsdl:message name="getAllHTSoapOut">
+    <wsdl:part name="parameters" element="tns:getAllHTResponse" />
+  </wsdl:message>
+  <wsdl:message name="getHTByIDSoapIn">
+    <wsdl:part name="parameters" element="tns:getHTByID" />
+  </wsdl:message>
+  <wsdl:message name="getHTByIDSoapOut">
+    <wsdl:part name="parameters" element="tns:getHTByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertHTSoapIn">
+    <wsdl:part name="parameters" element="tns:insertHT" />
+  </wsdl:message>
+  <wsdl:message name="insertHTSoapOut">
+    <wsdl:part name="parameters" element="tns:insertHTResponse" />
+  </wsdl:message>
+  <wsdl:message name="getLastHTSoapIn">
+    <wsdl:part name="parameters" element="tns:getLastHT" />
+  </wsdl:message>
+  <wsdl:message name="getLastHTSoapOut">
+    <wsdl:part name="parameters" element="tns:getLastHTResponse" />
+  </wsdl:message>
+  <wsdl:message name="getALLHTLISTSoapIn">
+    <wsdl:part name="parameters" element="tns:getALLHTLIST" />
+  </wsdl:message>
+  <wsdl:message name="getALLHTLISTSoapOut">
+    <wsdl:part name="parameters" element="tns:getALLHTLISTResponse" />
+  </wsdl:message>
+  <wsdl:portType name="HTControllerSoap">
+    <wsdl:operation name="getAllHT">
+      <wsdl:input message="tns:getAllHTSoapIn" />
+      <wsdl:output message="tns:getAllHTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getHTByID">
+      <wsdl:input message="tns:getHTByIDSoapIn" />
+      <wsdl:output message="tns:getHTByIDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertHT">
+      <wsdl:input message="tns:insertHTSoapIn" />
+      <wsdl:output message="tns:insertHTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getLastHT">
+      <wsdl:input message="tns:getLastHTSoapIn" />
+      <wsdl:output message="tns:getLastHTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getALLHTLIST">
+      <wsdl:input message="tns:getALLHTLISTSoapIn" />
+      <wsdl:output message="tns:getALLHTLISTSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HTControllerSoap" type="tns:HTControllerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllHT">
+      <soap:operation soapAction="http://tempuri.org/getAllHT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getHTByID">
+      <soap:operation soapAction="http://tempuri.org/getHTByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertHT">
+      <soap:operation soapAction="http://tempuri.org/insertHT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLastHT">
+      <soap:operation soapAction="http://tempuri.org/getLastHT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getALLHTLIST">
+      <soap:operation soapAction="http://tempuri.org/getALLHTLIST" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="HTControllerSoap12" type="tns:HTControllerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllHT">
+      <soap12:operation soapAction="http://tempuri.org/getAllHT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getHTByID">
+      <soap12:operation soapAction="http://tempuri.org/getHTByID" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertHT">
+      <soap12:operation soapAction="http://tempuri.org/insertHT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLastHT">
+      <soap12:operation soapAction="http://tempuri.org/getLastHT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getALLHTLIST">
+      <soap12:operation soapAction="http://tempuri.org/getALLHTLIST" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HTController">
+    <wsdl:port name="HTControllerSoap" binding="tns:HTControllerSoap">
+      <soap:address location="http://localhost:59230/Controllers/HTController.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HTControllerSoap12" binding="tns:HTControllerSoap12">
+      <soap12:address location="http://localhost:59230/Controllers/HTController.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="doInsert">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="shoeName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="price" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doInsertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doInsertResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doUpdate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="oldShoeName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="oldPrice" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="updateName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="updatePrice" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doUpdateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doUpdateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doDelete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="shoeName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doDeleteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doDeleteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doGet">
+        <s:complexType />
+      </s:element>
+      <s:element name="doGetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doGetResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doGetByID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doGetByIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doGetByIDResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="doInsertSoapIn">
+    <wsdl:part name="parameters" element="tns:doInsert" />
+  </wsdl:message>
+  <wsdl:message name="doInsertSoapOut">
+    <wsdl:part name="parameters" element="tns:doInsertResponse" />
+  </wsdl:message>
+  <wsdl:message name="doUpdateSoapIn">
+    <wsdl:part name="parameters" element="tns:doUpdate" />
+  </wsdl:message>
+  <wsdl:message name="doUpdateSoapOut">
+    <wsdl:part name="parameters" element="tns:doUpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="doDeleteSoapIn">
+    <wsdl:part name="parameters" element="tns:doDelete" />
+  </wsdl:message>
+  <wsdl:message name="doDeleteSoapOut">
+    <wsdl:part name="parameters" element="tns:doDeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="doGetSoapIn">
+    <wsdl:part name="parameters" element="tns:doGet" />
+  </wsdl:message>
+  <wsdl:message name="doGetSoapOut">
+    <wsdl:part name="parameters" element="tns:doGetResponse" />
+  </wsdl:message>
+  <wsdl:message name="doGetByIDSoapIn">
+    <wsdl:part name="parameters" element="tns:doGetByID" />
+  </wsdl:message>
+  <wsdl:message name="doGetByIDSoapOut">
+    <wsdl:part name="parameters" element="tns:doGetByIDResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ShoesControllerSoap">
+    <wsdl:operation name="doInsert">
+      <wsdl:input message="tns:doInsertSoapIn" />
+      <wsdl:output message="tns:doInsertSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doUpdate">
+      <wsdl:input message="tns:doUpdateSoapIn" />
+      <wsdl:output message="tns:doUpdateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doDelete">
+      <wsdl:input message="tns:doDeleteSoapIn" />
+      <wsdl:output message="tns:doDeleteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doGet">
+      <wsdl:input message="tns:doGetSoapIn" />
+      <wsdl:output message="tns:doGetSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doGetByID">
+      <wsdl:input message="tns:doGetByIDSoapIn" />
+      <wsdl:output message="tns:doGetByIDSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ShoesControllerSoap" type="tns:ShoesControllerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="doInsert">
+      <soap:operation soapAction="http://tempuri.org/doInsert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doUpdate">
+      <soap:operation soapAction="http://tempuri.org/doUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doDelete">
+      <soap:operation soapAction="http://tempuri.org/doDelete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doGet">
+      <soap:operation soapAction="http://tempuri.org/doGet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doGetByID">
+      <soap:operation soapAction="http://tempuri.org/doGetByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ShoesControllerSoap12" type="tns:ShoesControllerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="doInsert">
+      <soap12:operation soapAction="http://tempuri.org/doInsert" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doUpdate">
+      <soap12:operation soapAction="http://tempuri.org/doUpdate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doDelete">
+      <soap12:operation soapAction="http://tempuri.org/doDelete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doGet">
+      <soap12:operation soapAction="http://tempuri.org/doGet" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doGetByID">
+      <soap12:operation soapAction="http://tempuri.org/doGetByID" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ShoesController">
+    <wsdl:port name="ShoesControllerSoap" binding="tns:ShoesControllerSoap">
+      <soap:address location="http://localhost:59230/Controllers/ShoesController.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ShoesControllerSoap12" binding="tns:ShoesControllerSoap12">
+      <soap12:address location="http://localhost:59230/Controllers/ShoesController.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

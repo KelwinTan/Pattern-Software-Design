@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getAllDT">
+        <s:complexType />
+      </s:element>
+      <s:element name="getAllDTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getAllDTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getUserDT">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="headerID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getUserDTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getUserDTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertDT">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="headerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="qty" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="shoeID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertDTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertDTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDTBYHEADERID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="headerID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDTBYHEADERIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDTBYHEADERIDResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getAllDTSoapIn">
+    <wsdl:part name="parameters" element="tns:getAllDT" />
+  </wsdl:message>
+  <wsdl:message name="getAllDTSoapOut">
+    <wsdl:part name="parameters" element="tns:getAllDTResponse" />
+  </wsdl:message>
+  <wsdl:message name="getUserDTSoapIn">
+    <wsdl:part name="parameters" element="tns:getUserDT" />
+  </wsdl:message>
+  <wsdl:message name="getUserDTSoapOut">
+    <wsdl:part name="parameters" element="tns:getUserDTResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertDTSoapIn">
+    <wsdl:part name="parameters" element="tns:insertDT" />
+  </wsdl:message>
+  <wsdl:message name="insertDTSoapOut">
+    <wsdl:part name="parameters" element="tns:insertDTResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDTBYHEADERIDSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDTBYHEADERID" />
+  </wsdl:message>
+  <wsdl:message name="GetDTBYHEADERIDSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDTBYHEADERIDResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DTControllerSoap">
+    <wsdl:operation name="getAllDT">
+      <wsdl:input message="tns:getAllDTSoapIn" />
+      <wsdl:output message="tns:getAllDTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getUserDT">
+      <wsdl:input message="tns:getUserDTSoapIn" />
+      <wsdl:output message="tns:getUserDTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertDT">
+      <wsdl:input message="tns:insertDTSoapIn" />
+      <wsdl:output message="tns:insertDTSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDTBYHEADERID">
+      <wsdl:input message="tns:GetDTBYHEADERIDSoapIn" />
+      <wsdl:output message="tns:GetDTBYHEADERIDSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DTControllerSoap" type="tns:DTControllerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllDT">
+      <soap:operation soapAction="http://tempuri.org/getAllDT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserDT">
+      <soap:operation soapAction="http://tempuri.org/getUserDT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertDT">
+      <soap:operation soapAction="http://tempuri.org/insertDT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDTBYHEADERID">
+      <soap:operation soapAction="http://tempuri.org/GetDTBYHEADERID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DTControllerSoap12" type="tns:DTControllerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAllDT">
+      <soap12:operation soapAction="http://tempuri.org/getAllDT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserDT">
+      <soap12:operation soapAction="http://tempuri.org/getUserDT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertDT">
+      <soap12:operation soapAction="http://tempuri.org/insertDT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDTBYHEADERID">
+      <soap12:operation soapAction="http://tempuri.org/GetDTBYHEADERID" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DTController">
+    <wsdl:port name="DTControllerSoap" binding="tns:DTControllerSoap">
+      <soap:address location="http://localhost:59230/Controllers/DTController.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DTControllerSoap12" binding="tns:DTControllerSoap12">
+      <soap12:address location="http://localhost:59230/Controllers/DTController.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

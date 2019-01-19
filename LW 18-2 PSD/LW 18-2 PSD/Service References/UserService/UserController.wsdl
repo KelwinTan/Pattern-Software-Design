@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="doLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doLoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doRegister">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doRegisterResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doRegisterResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getAll">
+        <s:complexType />
+      </s:element>
+      <s:element name="getAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getAllResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doOrder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="shoeID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="userID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="qty" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="doOrderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doOrderResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getUserID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getUserIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getUserIDResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="doLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:doLogin" />
+  </wsdl:message>
+  <wsdl:message name="doLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:doLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="doRegisterSoapIn">
+    <wsdl:part name="parameters" element="tns:doRegister" />
+  </wsdl:message>
+  <wsdl:message name="doRegisterSoapOut">
+    <wsdl:part name="parameters" element="tns:doRegisterResponse" />
+  </wsdl:message>
+  <wsdl:message name="getAllSoapIn">
+    <wsdl:part name="parameters" element="tns:getAll" />
+  </wsdl:message>
+  <wsdl:message name="getAllSoapOut">
+    <wsdl:part name="parameters" element="tns:getAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="doOrderSoapIn">
+    <wsdl:part name="parameters" element="tns:doOrder" />
+  </wsdl:message>
+  <wsdl:message name="doOrderSoapOut">
+    <wsdl:part name="parameters" element="tns:doOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="getUserIDSoapIn">
+    <wsdl:part name="parameters" element="tns:getUserID" />
+  </wsdl:message>
+  <wsdl:message name="getUserIDSoapOut">
+    <wsdl:part name="parameters" element="tns:getUserIDResponse" />
+  </wsdl:message>
+  <wsdl:portType name="UserControllerSoap">
+    <wsdl:operation name="doLogin">
+      <wsdl:input message="tns:doLoginSoapIn" />
+      <wsdl:output message="tns:doLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doRegister">
+      <wsdl:input message="tns:doRegisterSoapIn" />
+      <wsdl:output message="tns:doRegisterSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getAll">
+      <wsdl:input message="tns:getAllSoapIn" />
+      <wsdl:output message="tns:getAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="doOrder">
+      <wsdl:input message="tns:doOrderSoapIn" />
+      <wsdl:output message="tns:doOrderSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getUserID">
+      <wsdl:input message="tns:getUserIDSoapIn" />
+      <wsdl:output message="tns:getUserIDSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UserControllerSoap" type="tns:UserControllerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="doLogin">
+      <soap:operation soapAction="http://tempuri.org/doLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doRegister">
+      <soap:operation soapAction="http://tempuri.org/doRegister" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getAll">
+      <soap:operation soapAction="http://tempuri.org/getAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doOrder">
+      <soap:operation soapAction="http://tempuri.org/doOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserID">
+      <soap:operation soapAction="http://tempuri.org/getUserID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="UserControllerSoap12" type="tns:UserControllerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="doLogin">
+      <soap12:operation soapAction="http://tempuri.org/doLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doRegister">
+      <soap12:operation soapAction="http://tempuri.org/doRegister" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getAll">
+      <soap12:operation soapAction="http://tempuri.org/getAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="doOrder">
+      <soap12:operation soapAction="http://tempuri.org/doOrder" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserID">
+      <soap12:operation soapAction="http://tempuri.org/getUserID" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UserController">
+    <wsdl:port name="UserControllerSoap" binding="tns:UserControllerSoap">
+      <soap:address location="http://localhost:59230/Controllers/UserController.asmx" />
+    </wsdl:port>
+    <wsdl:port name="UserControllerSoap12" binding="tns:UserControllerSoap12">
+      <soap12:address location="http://localhost:59230/Controllers/UserController.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
